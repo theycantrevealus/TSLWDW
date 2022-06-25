@@ -3,6 +3,8 @@
 **/node_modules
 **/migration
 **/.env
+**/.eslintrc.js
+**/.prettierrc
 **/ormconfig.json
 
 # Logs
